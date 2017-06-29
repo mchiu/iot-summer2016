@@ -1,11 +1,8 @@
 # iot-summer2016
 
-##Software Downloads
+##Software Downloads  
 MySQL Workbench
   https://dev.mysql.com/downloads/workbench/
-
-Toad for MySQL
-  http://software.dell.com/products/toad-for-mysql/
   
 Microsoft .NET Framework 4.5.2
   https://www.microsoft.com/en-us/download/details.aspx?id=30653 (4.5)
